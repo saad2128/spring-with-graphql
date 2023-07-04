@@ -1,10 +1,11 @@
 # spring-with-graphql
 ## To enable GraphQL Playground
 
-1- GraphQL Playground for Chrome
-2- use this url http://localhost:8080/graphql
-3- Following query for GraphQL Playground
+- GraphQL Playground for Chrome
+- use this url http://localhost:8080/graphql
+- Following query for GraphQL Playground
 
+```bash
 query{
   orders{
     id
@@ -31,3 +32,4 @@ query{
     }
   }
 }
+```
